@@ -2,4 +2,4 @@
 ## Today
 Foggy and cold with a chance of pizza.
 ## Tomorrow
-Morning rainbows followed by light showers.
+Morning rainbows (yeah right!) followed by light showers.
