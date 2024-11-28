@@ -1,5 +1,5 @@
 # Forecast
 ## Today
-Cloudy with a chance of pizza.
+Foggy and cold with a chance of pizza.
 ## Tomorrow
 Morning rainbows followed by light showers.
